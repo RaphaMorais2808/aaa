@@ -1,0 +1,9 @@
+body {
+    background-color:slateblue;
+}
+header{
+    background-color: rgb(199, 164, 118);
+}
+.receita-foto {
+    width: 30%;
+}
